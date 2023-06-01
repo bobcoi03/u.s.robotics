@@ -22,7 +22,7 @@ export default function Home() {
     </div>
     <div className="hero min-h-screen">
       <div className="hero-content flex-col lg:flex-row-reverse">
-        <img src="/sonny.jpeg" className="max-w-sm rounded-lg shadow-2xl" />
+        <img src="/sonny.jpeg" className="max-w-full sm:max-w-sm rounded-lg shadow-2xl" />
         <div className="max-w-md">
           <h1 className="text-5xl font-bold">The world's first general purpose humanoid.</h1>
           <p className="py-6">Meet NS-5: Your Ultimate Home Helper. From cleaning and cooking to organizing and entertainment, NS-5 is your personal assistant for a seamless and efficient household. Embrace the future of smart living with NS-5!</p>
